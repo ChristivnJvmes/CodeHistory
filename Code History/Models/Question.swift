@@ -17,7 +17,7 @@ struct Question: Hashable {
                      possibleAnswers: [
                         "Steve Jobs",
                         "Linus Torvalds",
-                        "Bill Gates",
+                        "Elon Musk",
                         "Tim Berners-Lee"
                      ],
                      correctAnswerIndex: 3),
